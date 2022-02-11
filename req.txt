@@ -1,0 +1,40 @@
+
+Description: 
+
+
+TODO APPLICATION
+
+An web application that allows users to manage their to-do tasks. the user can view all his todos, add a new todo with a title and description, mark a todo as finished/unfinished,
+and also delete an existing todo.
+
+
+-----------------------------------
+SERVER
+
+make a public api that has the ff requirements:
+
+
+GET route to get all todos
+
+POST route to add a todo
+todo details:
+- title
+- description
+- status
+
+DELETE route to delete a todo
+
+PATCH route to edit a todo
+
+------------------------------------
+CLIENT
+
+a gui that has the following elements:
+
+a form to accept new todos with input fields for title and description
+a view for all added todos
+a delete button for a todo
+a mark as done button for a todo
+
+
+
