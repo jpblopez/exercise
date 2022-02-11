@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "files.eol": "\n",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
